@@ -1,0 +1,2 @@
+language = "cpp"
+run = "cd build && cmake ../ && cmake --build . && ./poo1_2020_1_lab209_clases_objetos"

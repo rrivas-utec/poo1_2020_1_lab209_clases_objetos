@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/poo120201lab209clasesobjetos-1/main.cpp
+iostream
+-
+triangulo.h
+/home/runner/poo120201lab209clasesobjetos-1/triangulo.h
+
+/home/runner/poo120201lab209clasesobjetos-1/triangulo.cpp
+cmath
+-
+triangulo.h
+/home/runner/poo120201lab209clasesobjetos-1/triangulo.h
+
+/home/runner/poo120201lab209clasesobjetos-1/triangulo.h
+
