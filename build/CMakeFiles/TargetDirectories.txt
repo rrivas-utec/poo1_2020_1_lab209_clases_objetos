@@ -1,3 +1,0 @@
-/home/runner/poo120201lab209clasesobjetos-1/build/CMakeFiles/rebuild_cache.dir
-/home/runner/poo120201lab209clasesobjetos-1/build/CMakeFiles/poo1_2020_1_lab209_clases_objetos.dir
-/home/runner/poo120201lab209clasesobjetos-1/build/CMakeFiles/edit_cache.dir
