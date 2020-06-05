@@ -53,3 +53,17 @@ double triangulo_t::get_lado_2() {
 double triangulo_t::get_lado_3() {
     return lado_3;
 }
+
+void triangulo_t::set_lados(double a, double b, double c) {
+    lado_1 = a;
+    lado_2 = b;
+    lado_3 = c;
+}
+
+void Circulo::get_area() {
+
+}
+
+void Rectangulo::get_area() {
+
+}
