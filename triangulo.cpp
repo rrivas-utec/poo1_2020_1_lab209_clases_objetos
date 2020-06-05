@@ -60,10 +60,10 @@ void triangulo_t::set_lados(double a, double b, double c) {
     lado_3 = c;
 }
 
-void Circulo::get_area() {
+double Circulo::get_area() {
 
 }
 
-void Rectangulo::get_area() {
+double Rectangulo::get_area() {
 
 }
